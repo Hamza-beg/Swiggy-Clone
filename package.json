@@ -1,0 +1,31 @@
+{
+  "name": "swiggy",
+  "version": "1.0.0",
+  "description": "It is swiggy clone devloped by me to understand the concept of frontend basics",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hamza-beg/Swiggy-Clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hamza-beg/Swiggy-Clone/issues"
+  },
+  "homepage": "https://github.com/Hamza-beg/Swiggy-Clone#readme",
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4",
+    "tailwindcss": "^4.1.18",
+    "@tailwindcss/postcss": "^4.1.18",
+    "postcss": "^8.5.3"
+  }
+} 
